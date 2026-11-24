@@ -98,7 +98,7 @@ public class FileHandler {
 
 
     /**
-     *
+     * Decrypt the data (read from file).
      * @param file = the file which content to be decrypted
      * @param secretKey = Secret key stored in file.
      * @return decrypted data in bytes.
